@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Pamela E. Pairo"
+role: "PhD in Biological Sciences"
 avatar: avatar.jpg
 avatar_shape: rounded # circle, square, rounded
 show_social: true
